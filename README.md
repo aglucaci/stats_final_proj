@@ -4,3 +4,5 @@
 (3) Git clone hyphy-standalone-analyses <br>
 (4) https://github.com/veg/hyphy-analyses/tree/master/codon-msa <br>
 (5) Seaview, for NJ Tree <br>
+(6) FUBAR
+(7) MEME
