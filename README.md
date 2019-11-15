@@ -6,7 +6,7 @@
 (3) Git clone hyphy-standalone-analyses (https://github.com/veg/hyphy-analyses) <br>
 (4) Data cleanup.. Codon aware MSA (https://github.com/veg/hyphy-analyses/tree/master/codon-msa) <br>
 (4a) For Protein MSA, used MAFFT (https://mafft.cbrc.jp/alignment/software/). <br>
-(5) Seaview, for NJ Tree <br> (http://doua.prabi.fr/software/seaview) <br>
+(5) Seaview, for NJ Tree (http://doua.prabi.fr/software/seaview) <br>
 (6) Run FUBAR <br>
 (7) Run MEME <br>
 (8) Exploratory Data Analysis (EDA) on LANL data. <br>
