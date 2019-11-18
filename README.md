@@ -1,7 +1,7 @@
 
 # Step-by-Step
 
-(1) Unzip LANL Dataset <br>
+(1) Unzip LANL Dataset HIVDB-2017-DNA.tgz <br>
 (2) Git clone hyphy (https://github.com/veg/hyphy) <br>
 (3) Git clone hyphy-standalone-analyses (https://github.com/veg/hyphy-analyses) <br>
 (4) Data cleanup.. Codon aware MSA (https://github.com/veg/hyphy-analyses/tree/master/codon-msa) <br>
