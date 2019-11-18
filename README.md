@@ -3,7 +3,7 @@
 
 (1) Unzip LANL Dataset HIVDB-2017-DNA.tgz <br>
 .... (1a) We will use data from folder: HIV1-2017-Filtered <br>
-.... (1b) Avoid the file "FLTHIV1COMPLETE2017DNA.fasta" as we want to use data separated according to individual genes. <br>
+.... (1b) Avoid the file "FLTHIV1COMPLETE2017DNA.fasta" as we want to use data separated by gene. <br>
 (2) Git clone hyphy (https://github.com/veg/hyphy) <br>
 (3) Git clone hyphy-standalone-analyses (https://github.com/veg/hyphy-analyses) <br>
 (4) Data cleanup.. Codon aware MSA (https://github.com/veg/hyphy-analyses/tree/master/codon-msa) <br>
