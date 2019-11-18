@@ -2,10 +2,12 @@
 # Step-by-Step
 
 (1) Unzip LANL Dataset HIVDB-2017-DNA.tgz <br>
+<p class="tab"> (1a) We will use data from folder: HIV1-2017-Filtered </p> <br>
+<p class="tab"> (1b) Avoid the file "FLTHIV1COMPLETE2017DNA.fasta" as we want to use data separated according to individual genes. </p> <br>
 (2) Git clone hyphy (https://github.com/veg/hyphy) <br>
 (3) Git clone hyphy-standalone-analyses (https://github.com/veg/hyphy-analyses) <br>
 (4) Data cleanup.. Codon aware MSA (https://github.com/veg/hyphy-analyses/tree/master/codon-msa) <br>
-(4a) For Protein MSA, used MAFFT (https://mafft.cbrc.jp/alignment/software/). <br>
+<p class="tab"> (4a) For Protein MSA, used MAFFT (https://mafft.cbrc.jp/alignment/software/). </p> <br>
 (5) Seaview, for NJ Tree (http://doua.prabi.fr/software/seaview) <br>
 (6) Run FUBAR <br>
 (7) Run MEME <br>
