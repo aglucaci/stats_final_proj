@@ -17,7 +17,7 @@
 
 # References
 1. HyPhy; "HyPhy: hypothesis testing using phylogenies", https://www.ncbi.nlm.nih.gov/pubmed/15509596 <br>
-2. MEME; "FUBAR: A Fast, Unconstrained Bayesian AppRoximation for Inferring Selection", https://academic.oup.com/mbe/article/30/5/1196/998247 <br>
+2. FUBAR; "FUBAR: A Fast, Unconstrained Bayesian AppRoximation for Inferring Selection", https://academic.oup.com/mbe/article/30/5/1196/998247 <br>
 3. MEME; "Detecting Individual Sites Subject to Episodic Diversifying Selection", https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002764 <br>
 4. FEL; "Not So Different After All: A Comparison of Methods for Detecting Amino Acid Sites Under Selection" https://academic.oup.com/mbe/article/22/5/1208/1066893 <br>
 
