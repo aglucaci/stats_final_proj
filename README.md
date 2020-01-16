@@ -10,7 +10,7 @@
 .... (4a) For Protein MSA, used MAFFT (https://mafft.cbrc.jp/alignment/software/). <br>
 (5) Seaview, for NJ Tree (http://doua.prabi.fr/software/seaview) <br>
 (6) Run FUBAR <br>
-(7) Run MEME <br>
+(7) Run FEL <br>
 (8) Exploratory Data Analysis (EDA) on LANL data. <br>
 (9) HyPhy Vision (http://vision.hyphy.org/) to see the .json files <br>
 (10) ??? <br>
